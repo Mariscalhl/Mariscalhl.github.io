@@ -3136,3 +3136,13 @@ input, select, textarea {
 					}
 
 	}
+#one {
+    max-width:1%;
+    margin: auto;
+    text-align: left;
+}
+#two{
+  max-width:60%;
+  margin:auto;
+ text-align:center;
+}
